@@ -1,0 +1,26 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinHenryLo/NodeExpressPlayground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinHenryLo/NodeExpressPlayground/issues"
+  },
+  "homepage": "https://github.com/JustinHenryLo/NodeExpressPlayground#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "nodemon": "^2.0.4",
+    "uuid": "^8.2.0"
+  }
+}
