@@ -19,7 +19,7 @@
   "homepage": "https://github.com/JustinHenryLo/NodeExpressPlayground#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "nodemon": "^2.0.4",
     "uuid": "^8.2.0"
   }
